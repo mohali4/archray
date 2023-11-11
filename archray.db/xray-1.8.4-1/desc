@@ -1,0 +1,14 @@
+%FILENAME%
+xray-1.8.4-1-x86_64.pkg.tar.zst
+
+%NAME%
+xray
+
+%BASE%
+xray
+
+%VERSION%
+1.8.4
+
+%DESC%
+xray
